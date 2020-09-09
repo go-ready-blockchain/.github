@@ -1,0 +1,13 @@
+{
+    "name": "Go Ready CI Workflow",
+    "description": "Go Ready CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
